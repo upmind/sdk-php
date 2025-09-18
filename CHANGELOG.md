@@ -2,6 +2,10 @@
 
 All notable changes to the package will be documented in this file.
 
+## v1.1.0 - 2025-09-18
+
+- Widen PHP version support to include 8.4
+
 ## v1.0.0 - 2024-08-06
 
 - Add BodyParams for use in POST, PUT and PATCH requests
